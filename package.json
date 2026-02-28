@@ -1,0 +1,25 @@
+{
+  "name": "microbit-sos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "twilio": "^4.23.0"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/academykidS/microbit-sos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/academykidS/microbit-sos/issues"
+  },
+  "homepage": "https://github.com/academykidS/microbit-sos#readme"
+}
